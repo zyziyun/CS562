@@ -1,11 +1,5 @@
-//
-//  fib.c
-//  CS562
-//
-//  Created by ziyun on 1/19/22.
-//
-
 #include "fib.h"
+
 long fib(int n) {
 //    if (n <= 2) {
 //        return 1;
