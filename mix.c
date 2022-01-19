@@ -4,9 +4,10 @@
 
 long fib(int n);
 
-int main(int argc, const char * argv[]) {
+int main() {
     int a = N;
     printf("fib(%d) = %ld\n", a, fib(a));
+    return 0;
 }
 
 long fib(int n) {
